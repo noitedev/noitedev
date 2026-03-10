@@ -1,5 +1,45 @@
+# Olá! Eu sou o J. Guilherme (aka noitedev) 🌙💻
+
+Sou um desenvolvedor apaixonado por desvendar como as coisas funcionam por baixo dos panos. Atualmente, curso **Sistemas para Internet** no Instituto Federal de São Paulo (IFSP) e sou técnico em Desenvolvimento de Sistemas pela ETEC. 
+
+Tenho um fascínio por linguagens de baixo nível, engenharia reversa e manipulação de memória, o que me levou a explorar o mundo do game hacking e da otimização de sistemas.
+
+---
+
+### 👾 Sobre Mim
+
+- 🔭 **Foco atual:** Mergulhando fundo no ecossistema de linguagens de baixo nível, explorando **C**, **Assembly** e **Rust**.
+- 🛠️ **Background:** Experiência prática com game hacking (leitura e manipulação de memória) e desenvolvimento versátil de aplicações utilizando **Laravel**, **Flutter** e **C#**.
+- 🎮 **Gaming:** Jogador assíduo de **Counter-Strike 2** e entusiasta do cenário competitivo, focado no desenvolvimento de plataformas para a comunidade.
+- 🎸 **Fora das telas:** Sou guitarrista, apaixonado por heavy metal e curioso pela luthieria.
+
+---
+
+### 💻 Minhas Tecnologias e Ferramentas
+
 <div align="center">
-  <a href="https://github.com/noitedev">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=noitedev&show_icons=true&theme=dracula&count_private=true&hide_border=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noitedev&layout=compact&langs_count=7&theme=dracula&hide_border=true"/>
+  <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/Rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
+  <img src="https://img.shields.io/badge/Assembly-%232D3436.svg?style=for-the-badge&logo=code-igniter&logoColor=white" alt="Assembly" />
+  
+  <br>
+
+  <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</div>
+
+---
+
+### 📊 Estatísticas do GitHub
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=noitedev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noitedev&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+
+---
+
+<div align="center">
+  <em>"Entender a memória é entender a alma da máquina."</em> 🧠🔋
 </div>
