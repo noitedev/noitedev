@@ -1,4 +1,4 @@
-# Olá! Eu sou o J. Guilherme (aka noitedev) 🌙💻
+# Olá! Eu sou o noitedev 🌙💻
 
 Sou um desenvolvedor apaixonado por desvendar como as coisas funcionam por baixo dos panos. Atualmente, curso **Sistemas para Internet** no Instituto Federal de São Paulo (IFSP) e sou técnico em Desenvolvimento de Sistemas pela ETEC. 
 
@@ -11,7 +11,6 @@ Tenho um fascínio por linguagens de baixo nível, engenharia reversa e manipula
 - 🔭 **Foco atual:** Mergulhando fundo no ecossistema de linguagens de baixo nível, explorando **C**, **Assembly** e **Rust**.
 - 🛠️ **Background:** Experiência prática com game hacking (leitura e manipulação de memória) e desenvolvimento versátil de aplicações utilizando **Laravel**, **Flutter** e **C#**.
 - 🎮 **Gaming:** Jogador assíduo de **Counter-Strike 2** e entusiasta do cenário competitivo, focado no desenvolvimento de plataformas para a comunidade.
-- 🎸 **Fora das telas:** Sou guitarrista, apaixonado por heavy metal e curioso pela luthieria.
 
 ---
 
