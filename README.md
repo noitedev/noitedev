@@ -1,8 +1,8 @@
 # Olá! Eu sou o noitedev 🌙💻
 
-Sou um desenvolvedor apaixonado por desvendar como as coisas funcionam por baixo dos panos. Atualmente, curso **Sistemas para Internet** no Instituto Federal de São Paulo (IFSP) e sou técnico em Desenvolvimento de Sistemas pela ETEC. 
+Sou um desenvolvedor apaixonado por desvendar como as coisas funcionam por baixo dos panos. 
 
-Tenho um fascínio por linguagens de baixo nível, engenharia reversa e manipulação de memória, o que me levou a explorar o mundo do game hacking e da otimização de sistemas.
+Tenho um fascínio por linguagens de baixo nível, engenharia reversa e manipulação de memória, o que me levou a explorar o mundo do game hacking e da otimização de sistemas, tendo participado no desenolvimento de alguns **Anti-Cheats** de jogos e plataformas.
 
 ---
 
