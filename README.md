@@ -8,8 +8,8 @@ Tenho um fascínio por linguagens de baixo nível, engenharia reversa e manipula
 
 ### 👾 Sobre Mim
 
-- 🔭 **Foco atual:** Mergulhando fundo no ecossistema de linguagens de baixo nível, explorando **C**, **Assembly** e **Rust**.
-- 🛠️ **Background:** Experiência prática com game hacking (leitura e manipulação de memória) e desenvolvimento versátil de aplicações utilizando **Laravel**, **Flutter** e **C#**.
+- 🔭 **Foco atual:** Mergulhando fundo no ecossistema de linguagens de baixo e médio nível, explorando **C**, **Assembly** e **Rust**.
+- 🛠️ **Background:** Experiência prática com game hacking (leitura e manipulação de memória) e desenvolvimento versátil de aplicações e Anti-Cheats.
 - 🎮 **Gaming:** Jogador assíduo de **Counter-Strike 2** e entusiasta do cenário competitivo, focado no desenvolvimento de plataformas para a comunidade.
 
 ---
@@ -17,15 +17,31 @@ Tenho um fascínio por linguagens de baixo nível, engenharia reversa e manipula
 ### 💻 Minhas Tecnologias e Ferramentas
 
 <div align="center">
+  <!-- linguagens -->
   <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
   <img src="https://img.shields.io/badge/Rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
-  <img src="https://img.shields.io/badge/Assembly-%232D3436.svg?style=for-the-badge&logo=code-igniter&logoColor=white" alt="Assembly" />
+  <img src="https://img.shields.io/badge/Assembly-%232D3436.svg?style=for-the-badge&logoColor=white" alt="Assembly" />
+  <img src="https://img.shields.io/badge/TypeScript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   
   <br>
 
+  <!-- frameworks -->
+  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" alt="React" />
   <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
   <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+
+  <br>
+
+  <!-- dados -->
+  <img src="https://img.shields.io/badge/Neo4j-%234581C3.svg?style=for-the-badge&logo=neo4j&logoColor=white" alt="Neo4j" />
+  <img src="https://img.shields.io/badge/Redis-%23FF4438.svg?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/PostgreSQL-%234169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  
+  <br>
+
+  <!-- ferramentas -->
   <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" />
 </div>
 
 ---
