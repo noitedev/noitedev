@@ -20,7 +20,7 @@ Tenho um fascínio por linguagens de baixo nível, engenharia reversa e manipula
   <!-- linguagens -->
   <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
   <img src="https://img.shields.io/badge/Rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
-  <img src="https://img.shields.io/badge/Assembly-%232D3436.svg?style=for-the-badge&logoColor=white" alt="Assembly" />
+  <img src="https://img.shields.io/badge/Assembly-X86–64-%232D3436.svg?style=for-the-badge&logoColor=white" alt="Assembly" />
   <img src="https://img.shields.io/badge/TypeScript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   
   <br>
