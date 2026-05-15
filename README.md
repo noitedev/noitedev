@@ -1,8 +1,8 @@
 # Olá! Eu sou o noitedev 🌙💻
 
-Sou um desenvolvedor apaixonado por desvendar como as coisas funcionam por baixo dos panos. 
+Sou um desenvolvedor focado em infraestrutura de eSports, performance de sistemas e ferramentas para o cenário competitivo. 
 
-Tenho um fascínio por linguagens de baixo nível, engenharia reversa e manipulação de memória, o que me levou a explorar o mundo do game hacking e da otimização de sistemas, tendo participado no desenolvimento de alguns **Anti-Cheats** de jogos e plataformas.
+A paixão por entender como os jogos funcionam por baixo dos panos me levou a explorar linguagens de baixo nível, engenharia reversa e manipulação de memória. Hoje, aplico esse conhecimento desenvolvendo soluções para servidores, arquiteturas escaláveis e **Anti-Cheats** para a comunidade.
 
 ---
 
@@ -22,7 +22,6 @@ Tenho um fascínio por linguagens de baixo nível, engenharia reversa e manipula
   <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/Rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
   <img src="https://img.shields.io/badge/Assembly-X86–64-%232D3436.svg?style=for-the-badge&logoColor=white" alt="Assembly" />
-  <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/TypeScript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   
   <br>
@@ -30,7 +29,6 @@ Tenho um fascínio por linguagens de baixo nível, engenharia reversa e manipula
   <!-- frameworks -->
   <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" alt="React" />
     <img src="https://img.shields.io/badge/Vue-%234FC08D.svg?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue" />
-  <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
   <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
 
   <br>
