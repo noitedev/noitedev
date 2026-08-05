@@ -11,7 +11,7 @@ A paixão por entender como os jogos funcionam por baixo dos panos me levou a ex
 - 🔭 **Foco atual:** Mergulhando fundo no ecossistema de linguagens de baixo e médio nível, explorando **C**, **Assembly** e **Rust**.
 - 🛠️ **Background:** Experiência prática com game hacking (leitura e manipulação de memória) e desenvolvimento versátil de aplicações e Anti-Cheats.
 - 🎮 **Gaming:** Jogador assíduo de **Counter-Strike 2** e entusiasta do cenário competitivo, focado no desenvolvimento de plataformas para a comunidade.
-
+- 🔐 **Segurança:** Pioneiro no Brasil em tecnologias Anti-Cheat (Ring 0), desenvolvedor do primeiro Anti-Cheat nacional **capaz de detectar hardware DMA rodando firmware custom 1:1.**
 ---
 
 ### 💻 Minhas Tecnologias e Ferramentas
@@ -22,14 +22,6 @@ A paixão por entender como os jogos funcionam por baixo dos panos me levou a ex
   <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/Rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
   <img src="https://img.shields.io/badge/Assembly-X86–64-%232D3436.svg?style=for-the-badge&logoColor=white" alt="Assembly" />
-  <img src="https://img.shields.io/badge/TypeScript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  
-  <br>
-
-  <!-- frameworks -->
-  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-    <img src="https://img.shields.io/badge/Vue-%234FC08D.svg?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue" />
-  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
 
   <br>
 
